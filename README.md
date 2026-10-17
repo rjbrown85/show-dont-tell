@@ -2,12 +2,13 @@
 
 A Grade 5 writing tool. Students pick a feeling and get similes and metaphors that **show** it instead of telling it.
 
-- 200 common similes and metaphors, each with a kid-friendly meaning
-- 8 feeling families and 30 feelings (matching the classroom Show, Don't Tell chart)
+- 300 show-don't-tell ideas across 40 feelings in 9 feeling families
+- 200 common similes and metaphors, each with a kid-friendly meaning, for the 30 feelings on the classroom Show, Don't Tell chart
+- 100 sensory lines for 10 more feelings (calm, grateful, hopeful, loved, relieved, homesick, annoyed, jealous, guilty, determined), each tagged 👀 see, 👂 hear, 👃 smell, 👅 taste, ✋ touch, 💓 inside my body, 🏃 action, 💬 dialogue, or 💭 thoughts
 - A "telling vs. showing" model sentence for every feeling
 - Swedish, Simplified Chinese, and Korean support for every phrase and meaning
-- A grand piano chord or short piece for each feeling, and a soft piano tap on other buttons (🔊 / 🔇 toggle)
-- Filters for similes and metaphors, a 🎲 Surprise me button, and a 📋 copy button on every card
+- A grand piano chord or short piece that plays when a feeling opens, and a soft piano tap on other buttons (🔊 / 🔇 toggle)
+- Filters for senses, similes, and metaphors, a 🎲 Surprise me button, and a 📋 copy button on every card
 
 The full list is in [BANK.md](BANK.md).
 
